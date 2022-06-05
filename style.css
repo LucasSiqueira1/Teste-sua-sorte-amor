@@ -78,3 +78,11 @@ body::after{
   opacity: 0;
   transition: 0.5s;
 }
+
+h2 {
+  position: absolute;
+  top: -90px;
+  right: 30px;
+  font-size: 8em;
+  color: rgba(255, 255, 255, 0.05);
+}
