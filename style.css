@@ -86,3 +86,9 @@ h2 {
   font-size: 8em;
   color: rgba(255, 255, 255, 0.05);
 }
+
+h3 {
+  font-size: 1em;
+  color: #fff;
+  font-weight: 300;
+}
