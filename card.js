@@ -1,4 +1,4 @@
-/* let loadingcanva = document.getElementById('canv')
+let loadingcanva = document.getElementById('canv')
 let text = document.getElementsByClassName('testando')[0]
 console.log(text)
 text.style.opacity = 0;
@@ -8,7 +8,7 @@ const timeLoading = setTimeout(time, 8000)
 function time(){
   loadingcanva.style.opacity = 0;
   text.style.opacity = 1;
-} */
+}
 
 
 window.requestAnimFrame = (function(callback) {
