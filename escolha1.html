@@ -5,9 +5,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="loading.css" />
     <title>Chocolate dos bom 🍫</title>
   </head>
   <body>
-    <div class="container"></div>
+    <div class="container">
+      <div class="card">
+        <div class="contentEscolha">
+          <p id="texto">AEE</p>
+          <canvas id="canv"></canvas>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript" src="index.js"></script>
+    <!-- <script type="text/javascript" src="card.js"></script> -->
+    <script>
+      VanillaTilt.init(document.querySelectorAll(".card"));
+    </script>
   </body>
 </html>

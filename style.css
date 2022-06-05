@@ -79,6 +79,14 @@ body::after{
   transition: 0.5s;
 }
 
+.contentEscolha{
+  padding: 20px;
+  text-align: center;
+  transform: translateY(0px);
+  opacity: 1;
+  transition: 0.5s;
+}
+
 h2 {
   position: absolute;
   top: -125px;
