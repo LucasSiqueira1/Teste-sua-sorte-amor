@@ -66,6 +66,11 @@ body::after{
   align-items: center;
 }
 
+.card:hover .content{
+  transform: translateY(0px);
+  opacity: 1;
+}
+
 .content{
   padding: 20px;
   text-align: center;
