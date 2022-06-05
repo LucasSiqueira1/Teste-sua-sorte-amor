@@ -37,3 +37,15 @@ body::after{
   background: linear-gradient(#143e61, #a21e4a);
   clip-path: circle(20% at 10% 10%);
 }
+
+.container{
+  position: relative;
+  max-width: 1200px;
+  z-index: 1;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+}
