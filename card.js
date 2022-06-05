@@ -1,5 +1,6 @@
 let loadingcanva = document.getElementById('canv')
-let text = document.getElementById('texto')
+let text = document.getElementsByClassName('testando')[0]
+console.log(text)
 text.style.opacity = 0;
 
 const timeLoading = setTimeout(time, 8000)
@@ -57,7 +58,7 @@ var sq_b = new Sq($, {
 
 function A() {
   $.clearRect(0, 0, w, h);
-  var t = "a ".split("").join(String.fromCharCode(0x2004));
+  var t = " ".split("").join(String.fromCharCode(0x2004));
   
   $.font = "5em Poiret One";
   $.shadowColor = 'hsla(0,5%,5%,.5)';
