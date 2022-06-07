@@ -29,5 +29,8 @@
 <p>Sinta-se a vontade para fazer o download do código e alterar o conteúdo da pasta "Escolhas" onde consiste os 3 arquivos que são os 3 cards.</p>
 <p>As imagens dos cards ficam na pasta "images", para alterar é só colocar as imagens nessa pasta e alterar nos arquivos, dentro da pasta "Escolhas"</p>
 
+<br/>
 
+# Licença
+   Projeto sobre licença [MIT](LICENSE.md).
 
