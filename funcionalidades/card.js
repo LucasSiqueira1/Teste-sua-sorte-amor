@@ -1,5 +1,5 @@
 let loadingcanva = document.getElementById('canv')
-let text = document.getElementsByClassName('testando')[0]
+let text = document.getElementsByClassName('textContent')[0]
 console.log(text)
 text.style.opacity = 0;
 
