@@ -19,4 +19,6 @@
 
 <br/>
 
+# Surpresa para o seu amor 💻
+<p>Sinta-se a vontade para fazer o download do código e alterar o conteúdo da pasta "Escolhas" onde consiste os 3 arquivos que são os 3 cards.</p>
 
