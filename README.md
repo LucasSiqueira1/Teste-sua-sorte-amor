@@ -7,7 +7,7 @@
 <br/>
 
 # Projeto 💻
-<p>Para acessar o projeto hospedado sinta-se a vontade, clicando nesse link: , assim você irá conseguir ver e mexer no jogo que eu fiz para a minha namorada!</p>
+<p>Para acessar o projeto hospedado sinta-se a vontade, clicando nesse link: https://teste-sua-sorte-amor-pmhm2iv07-lucassiqueira1.vercel.app/, assim você irá conseguir ver e mexer no jogo que eu fiz para a minha namorada!</p>
 
 <br/>
 
