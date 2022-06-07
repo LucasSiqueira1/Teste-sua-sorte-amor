@@ -31,6 +31,6 @@
 
 <br/>
 
-# Licença
-   Projeto sobre licença [MIT](LICENSE.md).
+# Licença 🗒
+   Projeto sobre licença [MIT](LICENSE).
 
