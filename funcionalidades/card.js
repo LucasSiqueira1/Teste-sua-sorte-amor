@@ -3,7 +3,7 @@ let text = document.getElementsByClassName('textContent')[0]
 console.log(text)
 text.style.opacity = 0;
 
-const timeLoading = setTimeout(time, 8000)
+const timeLoading = setTimeout(time, 6000)
 
 function time(){
   loadingcanva.style.opacity = 0;
