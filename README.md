@@ -32,5 +32,5 @@
 <br/>
 
 # Licença 🗒
-   Projeto sobre licença [MIT](LICENSE).
+   Projeto sobre licença, [MIT](LICENSE).
 
